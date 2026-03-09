@@ -15,7 +15,7 @@ public class PracticaGit_avm {
      */
     public static void main(String[] args) {
         System.out.println("---sistema de Gestion de alumnos---");
-        System.out.println("Bienvenido, Usuario Estudiante");
+        
         
   
     
