@@ -1,0 +1,1 @@
+se realizo la practica git agregando 2 archivos , yo agregue 3 y se agregaron a la rama principal los cuales estan en apache y los tuve que buscar en mis documentos fue algo un poco complicado y tedioso pero lo terminamos al final se guardaron 3 archivo en una rama , esos archivos se subieron desde documentos 
